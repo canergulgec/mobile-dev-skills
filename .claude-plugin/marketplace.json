@@ -1,0 +1,9 @@
+{
+  "name": "mobile-dev-skills",
+  "owner": { "name": "Caner Gulgec", "email": "" },
+  "metadata": { "pluginRoot": "./plugins" },
+  "plugins": [
+    { "name": "ios", "source": "./ios", "description": "iOS engineering skills" },
+    { "name": "android", "source": "./android", "description": "Android engineering skills" }
+  ]
+}
