@@ -1,0 +1,9 @@
+{
+  "name": "ios",
+  "description": "iOS engineering skills for Claude Code",
+  "version": "1.0.0",
+  "skills": [
+    "./skills/xcode-build",
+    "./skills/run-tests"
+  ]
+}
