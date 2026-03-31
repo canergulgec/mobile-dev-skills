@@ -1,9 +1,10 @@
 {
   "name": "android",
   "description": "Android engineering skills for Claude Code",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "skills": [
     "./skills/gradle-build",
-    "./skills/code-review"
+    "./skills/code-review",
+    "./skills/android-coroutines"
   ]
 }
