@@ -3,7 +3,6 @@
   "description": "Android engineering skills for Claude Code",
   "version": "1.3.0",
   "skills": [
-    "./skills/gradle-build",
     "./skills/code-review",
     "./skills/android-coroutines",
     "./skills/unit-test"
