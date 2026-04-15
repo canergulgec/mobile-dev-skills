@@ -5,6 +5,7 @@
   "skills": [
     "./skills/code-review",
     "./skills/android-coroutines",
-    "./skills/unit-test"
+    "./skills/unit-test",
+    "./skills/material-3"
   ]
 }
